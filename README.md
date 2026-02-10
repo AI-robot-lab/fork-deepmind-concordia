@@ -11,9 +11,13 @@
 [![Examples](../../actions/workflows/test-examples.yml/badge.svg)](../../actions/workflows/test-examples.yml)
 <!-- /GITHUB -->
 
-[Concordia Tech Report](https://arxiv.org/abs/2312.03664) | [Concordia Design Pattern](https://arxiv.org/abs/2507.08892) | [Code Cheat Sheet](CHEATSHEET.md)
+[Concordia Tech Report](https://arxiv.org/abs/2312.03664) | [Concordia Design Pattern](https://arxiv.org/abs/2507.08892) | [Code Cheat Sheet](CHEATSHEET.md) | **[📖 Polish Documentation / Dokumentacja PL](INDEX_PL.md)**
 
 ## About
+
+> **🇵🇱 For Polish students:** This repository includes comprehensive Polish documentation. [Start here: INDEX_PL.md](INDEX_PL.md)
+> 
+> **🇵🇱 Dla studentów polskich:** To repozytorium zawiera kompletną dokumentację po polsku. [Zacznij tutaj: INDEX_PL.md](INDEX_PL.md)
 
 Concordia is a library to facilitate construction and use of generative
 agent-based models to simulate interactions of agents in grounded physical,
